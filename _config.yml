@@ -99,9 +99,11 @@ content:
             - Provide and implement the comprehensive architecture Design for Tableau Server
             - Implement automated OpenShift Deployment of Tableau Server and user provisioning
             - Integrate the Tableau Server with enterprise applications, including Azure Active Directory B2C, Microsoft Office 365 and Azure Synapse Analytics
+          
           Data Migration
             - Implement a migration plan for a local insurance company to migrate ten million records from Salesforce Service Cloud to Financial Service Cloud
             - Leverage Azure Synapse Analytics to perform enterprise-level volume data transformation
+          
           Magento Website Revamp
             - Investigate the possible causes of long-time responses on one of main popular shopping websites
             - Restructure the application architecture to improve the website response time significantly
