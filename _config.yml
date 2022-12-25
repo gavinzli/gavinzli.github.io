@@ -114,16 +114,16 @@ content:
         title: The Chinese University of Hong Kong
         sub_title: Bachelor of Engineering - BE, Information Engineering
         caption: Sep 2016 - June 2020
-        quote: >
-          Short institution or course description (optional)
+        # quote: >
+        #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           CGPA: 3.4/ 4.0
       - layout: top-right
         title: The Hong Kong University of Science and Technology
         sub_title: Master of Science - MS, Financial Technology
         caption: Sept 2021 - Present
-        quote: >
-          Short institution or course description (optional)
+        # quote: >
+        #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           CGPA: 3.656/ 4.3
   - title: A Little More About Me
