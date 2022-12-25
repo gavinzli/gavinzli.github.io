@@ -93,12 +93,12 @@ content:
         caption: Dec 2020 - Present
         link: https://deloittedigital.com.cn/en/home.html
         quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
           - Tableau Server Deployment
             - Provide and implement the comprehensive architecture Design for Tableau Server
             - Implement automated OpenShift Deployment of Tableau Server and user provisioning
             - Integrate the Tableau Server with enterprise applications, including Azure Active Directory B2C, Microsoft Office 365 and Azure Synapse Analytics
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
