@@ -80,7 +80,6 @@ content:
         quote: >
           Description about the work on/with the project
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
           - Crypto Machine Learning model to predict minute-level Long/Short position using technical indicators
           - Online financial market sentiment analysis by leveraging FinBERT model
           - Financial data transformation pipeline using GCP components, such as BigQuery and Dataproc
@@ -101,13 +100,21 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: The Chinese University of Hong Kong
+        sub_title: Bachelor of Engineering - BE, Information Engineering
+        caption: Sep 2016 - June 2020
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          CGPA: 3.4/ 4.0
+      - layout: top-right
+        title: The Hong Kong University of Science and Technology
+        sub_title: Master of Science - MS, Financial Technology
+        caption: Sept 2021 - Present
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          CGPA: 3.656/ 4.3
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
