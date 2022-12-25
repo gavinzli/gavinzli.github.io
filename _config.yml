@@ -69,7 +69,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Fintech Project
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: https://hkustfintech.azurewebsites.net/
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -78,12 +78,13 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
+          Description about the work on/with the project
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
           - Crypto Machine Learning model to predict minute-level Long/Short position using technical indicators
           - Online financial market sentiment analysis by leveraging FinBERT model
           - Financial data transformation pipeline using GCP components, such as BigQuery and Dataproc
           - Deployed and developed an online shopping website on GCP
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
