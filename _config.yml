@@ -88,12 +88,15 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Deloitte Digital Consulting
+        sub_title: Technical Consultant
+        caption: Dec 2020 - Present
+        link: https://deloittedigital.com.cn/en/home.html
         quote: >
-          Short description of the company (optional)
+          - Tableau Server Deployment
+            - Provide and implement the comprehensive architecture Design for Tableau Server
+            - Implement automated OpenShift Deployment of Tableau Server and user provisioning
+            - Integrate the Tableau Server with enterprise applications, including Azure Active Directory B2C, Microsoft Office 365 and Azure Synapse Analytics
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
