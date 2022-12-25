@@ -52,9 +52,8 @@ google_analytics: "G-14W26RL9YX"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Professional IT Consultant with 2 years of experience in cloud and data engineering, with strong problem-solving and management skills to provide strategic and practical IT Architecture Solutions. A faster learner who is passionate about the latest technology trends and innovation.
-# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
+  Professional IT Consultant with 2 years of experience in cloud and data engineering, with strong problem-solving and management skills to provide strategic and practical IT Architecture Solutions. A faster learner who is passionate about the latest technology trends and innovation. Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
