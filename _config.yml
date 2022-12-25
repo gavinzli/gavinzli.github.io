@@ -68,8 +68,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Fintech Project
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: https://hkustfintech.azurewebsites.net/
+        link: https://hkustfintech.azurewebsites.net
+        link_text: [Project Link]
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
